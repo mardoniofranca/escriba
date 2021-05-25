@@ -10,11 +10,11 @@
 - IMG to CSV
 
 # view
-1) Visualização das imagens
+- Visualização das imagens
 
 # classify
 - Teste utilizando o Keras como framework 
 
 # dataset
 
-1) Imagens para Testes, Modelos, Arquivos Format MNIST e CSV (train e test) 
+- Imagens para Testes, Modelos, Arquivos Format MNIST e CSV (train e test) 
